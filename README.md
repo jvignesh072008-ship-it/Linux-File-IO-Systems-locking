@@ -177,9 +177,11 @@ echo "This file will be locked" > lockfile.txt
 ## OUTPUT
 
 1.file copy :
+
 <img width="816" height="646" alt="Screenshot 2026-08-08 140436" src="https://github.com/user-attachments/assets/beac8644-d0e8-40f8-9047-1b1569864ba9" />
 
 2.file locking :
+
 <img width="813" height="662" alt="Screenshot 2026-08-08 140513" src="https://github.com/user-attachments/assets/55b10905-e564-4459-9ba0-ce26f996e057" />
 <img width="805" height="667" alt="Screenshot 2026-08-08 140533" src="https://github.com/user-attachments/assets/15171536-8f02-48a2-89a4-a357dcf4193a" />
 <img width="815" height="661" alt="Screenshot 2026-08-08 140549" src="https://github.com/user-attachments/assets/4adaa300-2891-4d2c-9242-583a880746b7" />
